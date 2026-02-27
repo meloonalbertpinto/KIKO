@@ -82,23 +82,27 @@ Modern nuclear families face a **silent crisis**:
 | 🧠 **Developmental Setbacks** | Impaired creativity, stubbornness, can't self-soothe |
 | 😔 **Parental Isolation** | No mentorship, no community, no guidance |
 
-THE VICIOUS CYCLE:
+<table>
+<tr>
+<td align="center">
 
-😰 Stressed Parent
-│
-▼
-📱 Hands Phone to Child
-│
-▼
-🧒 Child Glued to Screen
-│
-▼
-😤 Tantrum Without Phone
-│
-▼
-😰 Back to Stressed Parent
-│
-└──────── 🔄 REPEAT ────────┘
+### 🔄 The Vicious Cycle
+
+😰 **Stressed Parent** <br/>
+⬇️ <br/>
+📱 **Hands Phone to Child** <br/>
+⬇️ <br/>
+🧒 **Child Glued to Screen** <br/>
+⬇️ <br/>
+😤 **Tantrum Without Phone** <br/>
+⬇️ <br/>
+😰 **Back to Stressed Parent** <br/>
+<br/>
+🔁 **CYCLE REPEATS**
+
+</td>
+</tr>
+</table>
 
 
 > **The market either entertains without nurturing or educates without
