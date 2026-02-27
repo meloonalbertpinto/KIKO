@@ -86,7 +86,7 @@ Modern nuclear families face a **silent crisis**:
 <tr>
 <td align="center">
 
-### 🔄 The Vicious Cycle
+### The Vicious Cycle
 
 😰 **Stressed Parent** <br/>
 ⬇️ <br/>
@@ -103,6 +103,26 @@ Modern nuclear families face a **silent crisis**:
 </td>
 </tr>
 </table>
+
+```
+THE VICIOUS CYCLE:
+                    
+        😰 Stressed Parent
+              │
+              ▼
+        📱 Hands Phone to Child
+              │
+              ▼
+        🧒 Child Glued to Screen
+              │
+              ▼
+        😤 Tantrum Without Phone
+              │
+              ▼
+        😰 Back to Stressed Parent
+              │
+              └──────── 🔄 REPEAT ────────┘
+```
 
 
 > **The market either entertains without nurturing or educates without
